@@ -1,4 +1,12 @@
 #chicken {
     width: 500px;
     height: 400px;
+
 }
+body {
+    background-color: blue;
+  }
+  
+  #main {
+    background-color: blue;
+  }
